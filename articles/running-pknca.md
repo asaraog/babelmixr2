@@ -169,7 +169,7 @@ fit <- nlmixr(prepared, data = theo_sd, est = "focei", control = list(print = 0)
 #> → compiling events FD model...
 #> ✔ done
 #> calculating covariance matrix
-#> [====|====|====|====|====|====|====|====|====|====] 0:00:00 
+#> [====|====|====|====|====|====|====|====|====|====] 0:00:01 
 #> done
 #> → Calculating residuals/tables
 #> ✔ done
